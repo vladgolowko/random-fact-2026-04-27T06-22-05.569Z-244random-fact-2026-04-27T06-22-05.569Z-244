@@ -1,2 +1,5 @@
-# random-fact-2026-04-27T06-22-05.569Z-244random-fact-2026-04-27T06-22-05.569Z-244
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Before air conditioning was invented, white cotton slipcovers were put on furniture to keep the air cool.
+
+*Generated on 2026-04-27T06:22:08.508Z*
